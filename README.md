@@ -1,6 +1,6 @@
 # apz-pzpi-22-1-dzhezhela-nikita  
-pzpi-22-1  
-Dzhezhela Nikita  
-Chain of responsibility  
-Android  
+ПЗПІ-22-1  
+Джежела Нікіта  
+Шаблон проєктування Chain of responsibility  
+Архітектура операційної системи Android  
 tbd  
